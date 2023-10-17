@@ -1,9 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T13:27:57.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" version="22.0.4" etag="2YtE0eLUiayhD3WzJR8d" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T08:27:24.066Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="uL4z4acjhRCnbaPHADH_" version="22.0.4" type="github">
   <diagram name="Page-1" id="gmUgVFKARMompz8cBliH">
-    <mxGraphModel>
+    <mxGraphModel dx="1337" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yUiu3hchtchA_FLEPCTi-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="640" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-2" value="help" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-3" value="name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-5" value="sign in" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307" y="240" width="186" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-6" value="sign in" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307" y="330" width="186" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-7" value="if you do not have an account&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="110" width="640" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-9" value="help" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-10" value="name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-14" value="the first page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="70" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-15" value="made by Taisiia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="480" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-16" value="user chooses sign in" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1161" y="70" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-17" value="Please enter&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="230" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1105.5" y="275" width="229" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1105.5" y="320" width="229" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-21" value="enter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1243.5" y="370" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-22" value="username" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="272.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-23" value="password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="317.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-25" value="made by Taisiia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="490" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="590" width="640" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-27" value="help" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="610" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-28" value="name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-29" value="user chooses sign up" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="346" y="550" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-30" value="Create" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="710" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290.5" y="755" width="229" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290.5" y="800" width="229" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-33" value="enter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="428.5" y="850" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-34" value="username" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="752.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-35" value="password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="797.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-36" value="made by Taisiia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="970" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="110" width="640" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-38" value="help" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-39" value="name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-40" value="user chooses sign in" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1961" y="70" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-41" value="choose your option to login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1945" y="230" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-47" value="made by Taisiia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="490" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-48" value="user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="285" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yUiu3hchtchA_FLEPCTi-49" value="administrator&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="285" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
