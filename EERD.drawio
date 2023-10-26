@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T19:41:56.441Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="aCjjTT9fGcX0XL1Iz1TK" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T19:43:48.761Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="lsCtDx2kxLt6qNBqFTdO" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="wWMy9JLJJV9ZENk0t9AI">
     <mxGraphModel dx="2838" dy="2385" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1178,6 +1178,9 @@
         </mxCell>
         <mxCell id="nFXputv5kmvh4eJa4CY4-382" value="I think so" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="216" y="2275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nFXputv5kmvh4eJa4CY4-383" value="I asked tutor about adding clients. He said that we don’t need it, as I understood&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="132" y="2327.5" width="144" height="113" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
