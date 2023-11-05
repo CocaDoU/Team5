@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T13:27:39.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HOoJ5dUeBtvMdCNKwJv9" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-05T19:02:28.738Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="ZMEOJ_cx30VHcWgiNxqA" version="22.0.4" type="github">
   <diagram name="Page-1" id="Ytdvc4sDia0L2YPKh5zA">
-    <mxGraphModel dx="1195" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="2269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,13 +102,13 @@
             <mxPoint x="320" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-25" value="Verify Credentias" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="6vR4dQL-GC3axhAhHZct-1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-25" value="Verify Credentias" style="ellipse;whiteSpace=wrap;html=1;" parent="6vR4dQL-GC3axhAhHZct-1" vertex="1">
           <mxGeometry x="330" y="163" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.023;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="6vR4dQL-GC3axhAhHZct-1" source="6vR4dQL-GC3axhAhHZct-50" target="q0sa2IvHLagkZVXANvXT-25">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.023;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="6vR4dQL-GC3axhAhHZct-1" source="6vR4dQL-GC3axhAhHZct-50" target="q0sa2IvHLagkZVXANvXT-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-27" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="q0sa2IvHLagkZVXANvXT-26">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-27" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" parent="q0sa2IvHLagkZVXANvXT-26" vertex="1" connectable="0">
           <mxGeometry x="-0.1038" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -145,7 +145,7 @@
         <mxCell id="1OJHstHyKNJNklW6DiGo-156" value="User" style="html=1;overflow=block;blockSpacing=1;shape=umlActor;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;whiteSpace=nowrap;fontSize=16.7;fontColor=#3a414a;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=vpGFVkSyYXx9;" parent="1" vertex="1">
           <mxGeometry x="1200" y="148" width="60" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="1OJHstHyKNJNklW6DiGo-157" value="Help request" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=ZpGFaHIB0dEf;" parent="1" vertex="1">
+        <mxCell id="1OJHstHyKNJNklW6DiGo-157" value="Open help request tab" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=ZpGFaHIB0dEf;" parent="1" vertex="1">
           <mxGeometry x="1470" y="133" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1OJHstHyKNJNklW6DiGo-158" value="Add request to database" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=GtGF5D6FXER~;" parent="1" vertex="1">
@@ -341,76 +341,76 @@
         <mxCell id="Bqvic-vJyQrLB7bYGRzd-69" value="Search" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=0.8;lucidId=YAnCTzveyhfe;" parent="1" vertex="1">
           <mxGeometry x="2827.5" y="28" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-18" value="Use Case Name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-18" value="Use Case Name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="800" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-19" value="Actors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-19" value="Actors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="820" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-20" value="Log In" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-20" value="Log In" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="800" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-21" value="Consultant" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-21" value="Consultant" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="820" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-23" value="Flow of Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-23" value="Flow of Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="840" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-24" value="1. User clicks on the &quot;Log In&quot; button&lt;br&gt;2. User enters details&lt;br&gt;3. Program verifies the credentials&lt;br&gt;4. Confirmation message displayed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-24" value="1. User clicks on the &quot;Log In&quot; button&lt;br&gt;2. User enters details&lt;br&gt;3. Program verifies the credentials&lt;br&gt;4. Confirmation message displayed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="840" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-29" value="Alternate Flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-29" value="Alternate Flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="920" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-30" value="2a. Message displays: &quot;E-mail does not contain &#39;@citisoft.co.uk&#39;&quot;&lt;br&gt;2b. Message displays: &quot;Password needs to be between 8 and 25 characters long and contain a number, uppercase letter(s) and special characters.&quot;&lt;br&gt;3a. Message displays: &quot;Invalid credentials&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-30" value="2a. Message displays: &quot;E-mail does not contain &#39;@citisoft.co.uk&#39;&quot;&lt;br&gt;2b. Message displays: &quot;Password needs to be between 8 and 25 characters long and contain a number, uppercase letter(s) and special characters.&quot;&lt;br&gt;3a. Message displays: &quot;Invalid credentials&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="920" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-31" value="Entry Conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-31" value="Entry Conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="1000" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-32" value="User has an account registered" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-32" value="User has an account registered" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="1000" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-33" value="Exit conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-33" value="Exit conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="1020" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-34" value="User either logs in successfully or cancels the process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-34" value="User either logs in successfully or cancels the process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="1020" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-35" value="Use Case Name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-35" value="Use Case Name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="1080" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-36" value="Actors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-36" value="Actors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="1100" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-37" value="Sign Up" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-37" value="Sign Up" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="1080" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-38" value="Consultant" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-38" value="Consultant" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="1100" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-39" value="Flow of Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-39" value="Flow of Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="1120" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-40" value="1. User clicks on the &quot;Sign Up&quot; button&amp;nbsp;&lt;br&gt;2. User enters details&lt;br&gt;3. Program verifies the credentials&lt;br&gt;4. Program stores the credentials in the database&lt;br&gt;5. Confirmation message displayed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-40" value="1. User clicks on the &quot;Sign Up&quot; button&amp;nbsp;&lt;br&gt;2. User enters details&lt;br&gt;3. Program verifies the credentials&lt;br&gt;4. Program stores the credentials in the database&lt;br&gt;5. Confirmation message displayed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="1120" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-41" value="Alternate Flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-41" value="Alternate Flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="1200" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-42" value="2a. Message displays: &quot;E-mail does not contain &#39;@citisoft.co.uk&#39;&quot;&lt;br&gt;2b. Message displays: &quot;Password needs to be between 8 and 25 characters long and contain a number, uppercase letter(s) and special characters.&quot;&lt;br&gt;3a. Message displays: &quot;Account already exists&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-42" value="2a. Message displays: &quot;E-mail does not contain &#39;@citisoft.co.uk&#39;&quot;&lt;br&gt;2b. Message displays: &quot;Password needs to be between 8 and 25 characters long and contain a number, uppercase letter(s) and special characters.&quot;&lt;br&gt;3a. Message displays: &quot;Account already exists&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="1200" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-43" value="Entry Conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-43" value="Entry Conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="1280" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-44" value="User does not have an account" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-44" value="User does not have an account" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="1280" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-45" value="Exit conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-45" value="Exit conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="1300" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q0sa2IvHLagkZVXANvXT-46" value="User either signs up successfully or cancels the process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q0sa2IvHLagkZVXANvXT-46" value="User either signs up successfully or cancels the process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="1300" width="380" height="20" as="geometry" />
         </mxCell>
       </root>
