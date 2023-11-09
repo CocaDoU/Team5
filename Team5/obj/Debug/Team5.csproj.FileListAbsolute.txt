@@ -1,0 +1,11 @@
+D:\VSS\Team5\bin\Debug\Database.mdf
+D:\VSS\Team5\bin\Debug\Database_log.ldf
+D:\VSS\Team5\bin\Debug\Team5.exe.config
+D:\VSS\Team5\bin\Debug\Team5.exe
+D:\VSS\Team5\bin\Debug\Team5.pdb
+D:\VSS\Team5\obj\Debug\Team5.csproj.AssemblyReference.cache
+D:\VSS\Team5\obj\Debug\Team5.Properties.Resources.resources
+D:\VSS\Team5\obj\Debug\Team5.csproj.GenerateResource.cache
+D:\VSS\Team5\obj\Debug\Team5.csproj.CoreCompileInputs.cache
+D:\VSS\Team5\obj\Debug\Team5.exe
+D:\VSS\Team5\obj\Debug\Team5.pdb
