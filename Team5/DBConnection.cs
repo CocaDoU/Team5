@@ -11,6 +11,7 @@ using System.Threading.Tasks;
  * This concept is new for most of us,
  * so using any other way to connect to a data source would prove difficult.
  * I can, however, ensure that we have understood how this algorithm works.
+ * ~Kevin
  */
 
 namespace Team5
