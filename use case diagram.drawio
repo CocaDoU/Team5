@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T12:15:31.343Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="5ZZZUvCJJw84GQmou_9K" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T20:53:08.743Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="3T6DX9ju0fX2pNf6Aq33" version="22.1.2" type="github">
   <diagram name="Page-1" id="Ytdvc4sDia0L2YPKh5zA">
-    <mxGraphModel dx="1012" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3470" dy="2685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -859,77 +859,113 @@
             <mxPoint x="3150" y="2320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-2" value="Use Case Name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-2" value="Use Case Name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1425" y="860" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-3" value="Actors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-3" value="Actors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1425" y="880" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-4" value="Help Center" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-4" value="Help Center" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1525" y="860" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-5" value="Consultant" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-5" value="Consultant" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1525" y="880" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-6" value="Flow of Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-6" value="Flow of Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1425" y="900" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-7" value="1. User clicks on the &quot;Help&quot; button&lt;br&gt;2. User enters details&lt;br&gt;3. Program stores it in the database&lt;br&gt;4. Confirmation message displayed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-7" value="1. User clicks on the &quot;Help&quot; button&lt;br&gt;2. User enters details&lt;br&gt;3. Program stores it in the database&lt;br&gt;4. Confirmation message displayed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1525" y="900" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-8" value="Alternate Flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-8" value="Alternate Flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1425" y="980" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-9" value="2a. Message displays: &quot;Message is too long, please make it shorter&#39;&quot;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-9" value="2a. Message displays: &quot;Message is too long, please make it shorter&#39;&quot;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1525" y="980" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-10" value="Entry Conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-10" value="Entry Conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1425" y="1060" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-11" value="User has a problem during usage of the application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-11" value="User has a problem during usage of the application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1525" y="1060" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-12" value="Exit conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-12" value="Exit conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1425" y="1080" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-13" value="User either sends the message successfully or cancels the process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-13" value="User either sends the message successfully or cancels the process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1525" y="1080" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-14" value="Use Case Name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-14" value="Use Case Name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1425" y="1140" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-15" value="Actors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-15" value="Actors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1425" y="1160" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-16" value="Help Center" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-16" value="Help Center" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1525" y="1140" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-17" value="Administrator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-17" value="Administrator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1525" y="1160" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-18" value="Flow of Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-18" value="Flow of Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1425" y="1180" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-19" value="1. User clicks on the &quot;View Help Requests&quot; button&amp;nbsp;&lt;br&gt;2. User chooses how to filer help requests&lt;br&gt;3. The program filters and sorts requests based on the choise of the user&amp;nbsp;&lt;br&gt;4.User changes the status of the request &lt;br&gt;5. The program &amp;nbsp;updates&amp;nbsp;database" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-19" value="1. User clicks on the &quot;View Help Requests&quot; button&amp;nbsp;&lt;br&gt;2. User chooses how to filer help requests&lt;br&gt;3. The program filters and sorts requests based on the choise of the user&amp;nbsp;&lt;br&gt;4.User changes the status of the request &lt;br&gt;5. The program &amp;nbsp;updates&amp;nbsp;database" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1525" y="1180" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-20" value="Alternate Flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-20" value="Alternate Flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1425" y="1260" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-21" value="3a. User chooses to delete a request&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-21" value="3a. User chooses to delete a request&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1525" y="1260" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-22" value="Entry Conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-22" value="Entry Conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1425" y="1340" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-23" value="User wants to check and edit help requests&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-23" value="User wants to check and edit help requests&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1525" y="1340" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-24" value="Exit conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-24" value="Exit conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1425" y="1360" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7J8eGlP3hCwe24i19LiL-25" value="User either resolve issues successfully or cancels the process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7J8eGlP3hCwe24i19LiL-25" value="User either resolve issues successfully or cancels the process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1525" y="1360" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4DT83KVUb2VvOl7qxICx-1" value="Use Case Name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2685" y="880" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4DT83KVUb2VvOl7qxICx-2" value="Actors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2685" y="900" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4DT83KVUb2VvOl7qxICx-3" value="Search" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2785" y="880" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4DT83KVUb2VvOl7qxICx-5" value="Flow of Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2685" y="920" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4DT83KVUb2VvOl7qxICx-6" value="&amp;nbsp;1. User enters details into the search bar&lt;br&gt;2. User tap the “Search” button" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2785" y="920" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4DT83KVUb2VvOl7qxICx-7" value="Alternate Flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2685" y="1000" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4DT83KVUb2VvOl7qxICx-8" value="Entry Conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2685" y="1080" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4DT83KVUb2VvOl7qxICx-9" value="User successfully logged in to the application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2785" y="1080" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4DT83KVUb2VvOl7qxICx-10" value="Exit conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2685" y="1100" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4DT83KVUb2VvOl7qxICx-11" value="User either sends the prompt successfully or cancels the process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2785" y="1100" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4DT83KVUb2VvOl7qxICx-47" value="2a. Message displays: &quot;Message is too long, please make it shorter&#39;&quot;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2785" y="1000" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4DT83KVUb2VvOl7qxICx-4" value="Consultant/ Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2785" y="900" width="380" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
