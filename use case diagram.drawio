@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T03:37:58.195Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="ZZ6O0jMPeKpVkdXJ9D-a" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T08:14:59.375Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="t5R6GHi2G8unJVZmPX4q" version="22.1.7" type="github">
   <diagram name="Page-1" id="Ytdvc4sDia0L2YPKh5zA">
-    <mxGraphModel dx="1284" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2093" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -542,24 +542,24 @@
         <mxCell id="naNYfocV4EcByCn_tp5l-45" value="Scrolling shows more records" style="rounded=0;whiteSpace=wrap;html=1;" parent="25p_WsbpWHURiKa320EH-3" vertex="1">
           <mxGeometry x="5" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classic;startFill=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="25p_WsbpWHURiKa320EH-3" source="naNYfocV4EcByCn_tp5l-13" target="naNYfocV4EcByCn_tp5l-18">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classic;startFill=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="25p_WsbpWHURiKa320EH-3" source="naNYfocV4EcByCn_tp5l-13" target="naNYfocV4EcByCn_tp5l-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="525" y="580" as="sourcePoint" />
             <mxPoint x="525" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&quot;extend&quot;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qu9oQcRNyt_EFON5Fd7M-5">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&quot;extend&quot;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Qu9oQcRNyt_EFON5Fd7M-5" vertex="1" connectable="0">
           <mxGeometry x="-0.1037" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-44" value="Can not edit id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="25p_WsbpWHURiKa320EH-3">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-44" value="Can not edit id" style="rounded=0;whiteSpace=wrap;html=1;" parent="25p_WsbpWHURiKa320EH-3" vertex="1">
           <mxGeometry x="449" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-46" value="Changed data does not changes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="25p_WsbpWHURiKa320EH-3">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-46" value="Changed data does not changes" style="rounded=0;whiteSpace=wrap;html=1;" parent="25p_WsbpWHURiKa320EH-3" vertex="1">
           <mxGeometry x="645" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-47" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="25p_WsbpWHURiKa320EH-3">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-47" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="25p_WsbpWHURiKa320EH-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="635" y="280" as="sourcePoint" />
             <mxPoint x="695" y="230" as="targetPoint" />
@@ -618,10 +618,10 @@
         <mxCell id="naNYfocV4EcByCn_tp5l-3" value="User see changed info" style="rounded=0;whiteSpace=wrap;html=1;" parent="25p_WsbpWHURiKa320EH-7" vertex="1">
           <mxGeometry x="453.5" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-20" value="Impossible to change&lt;br&gt;email" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;" vertex="1" parent="25p_WsbpWHURiKa320EH-7">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-20" value="Impossible to change&lt;br&gt;email" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;" parent="25p_WsbpWHURiKa320EH-7" vertex="1">
           <mxGeometry x="546.5" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.939;exitY=0.213;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.053;entryY=0.713;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="25p_WsbpWHURiKa320EH-7" source="25p_WsbpWHURiKa320EH-19" target="25p_WsbpWHURiKa320EH-18">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.939;exitY=0.213;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.053;entryY=0.713;entryDx=0;entryDy=0;entryPerimeter=0;" parent="25p_WsbpWHURiKa320EH-7" source="25p_WsbpWHURiKa320EH-19" target="25p_WsbpWHURiKa320EH-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="496.5" y="490" as="sourcePoint" />
             <mxPoint x="546.5" y="440" as="targetPoint" />
@@ -669,19 +669,19 @@
             <mxPoint x="623.5" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="25p_WsbpWHURiKa320EH-7" target="Qu9oQcRNyt_EFON5Fd7M-20">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="25p_WsbpWHURiKa320EH-7" target="Qu9oQcRNyt_EFON5Fd7M-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="356.5" y="470" as="sourcePoint" />
             <mxPoint x="546.5" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.779;entryY=0.932;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="25p_WsbpWHURiKa320EH-7" source="25p_WsbpWHURiKa320EH-20" target="25p_WsbpWHURiKa320EH-19">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.779;entryY=0.932;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="25p_WsbpWHURiKa320EH-7" source="25p_WsbpWHURiKa320EH-20" target="25p_WsbpWHURiKa320EH-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="381" y="460" as="sourcePoint" />
             <mxPoint x="431" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-23" value="&quot;extend&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="Qu9oQcRNyt_EFON5Fd7M-22">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-23" value="&quot;extend&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" parent="Qu9oQcRNyt_EFON5Fd7M-22" vertex="1" connectable="0">
           <mxGeometry x="0.204" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -799,18 +799,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="25p_WsbpWHURiKa320EH-5" source="25p_WsbpWHURiKa320EH-57" target="25p_WsbpWHURiKa320EH-56">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="25p_WsbpWHURiKa320EH-5" source="25p_WsbpWHURiKa320EH-57" target="25p_WsbpWHURiKa320EH-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="425" y="492.5" as="sourcePoint" />
             <mxPoint x="725" y="582.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-4" value="&quot;extend&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Qu9oQcRNyt_EFON5Fd7M-2">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-4" value="&quot;extend&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="Qu9oQcRNyt_EFON5Fd7M-2" vertex="1" connectable="0">
           <mxGeometry x="-0.1593" y="-3" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="25p_WsbpWHURiKa320EH-5">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="25p_WsbpWHURiKa320EH-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="545" y="312.5" as="sourcePoint" />
             <mxPoint x="525" y="392.5" as="targetPoint" />
@@ -831,7 +831,7 @@
         <mxCell id="naNYfocV4EcByCn_tp5l-7" value="automatic saving" style="rounded=0;whiteSpace=wrap;html=1;" parent="25p_WsbpWHURiKa320EH-79" vertex="1">
           <mxGeometry x="450" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-40" value="Changed data does not changes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="25p_WsbpWHURiKa320EH-79">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-40" value="Changed data does not changes" style="rounded=0;whiteSpace=wrap;html=1;" parent="25p_WsbpWHURiKa320EH-79" vertex="1">
           <mxGeometry x="665" y="192.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="25p_WsbpWHURiKa320EH-53" value="Edit records" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="25p_WsbpWHURiKa320EH-79" vertex="1">
@@ -855,7 +855,7 @@
             <mxPoint x="520" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-43" value="Can not edit id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="25p_WsbpWHURiKa320EH-79">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-43" value="Can not edit id" style="rounded=0;whiteSpace=wrap;html=1;" parent="25p_WsbpWHURiKa320EH-79" vertex="1">
           <mxGeometry x="465" y="422.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="naNYfocV4EcByCn_tp5l-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="25p_WsbpWHURiKa320EH-79" edge="1">
@@ -978,7 +978,7 @@
         <mxCell id="4DT83KVUb2VvOl7qxICx-5" value="Flow of Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2685" y="920" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4DT83KVUb2VvOl7qxICx-6" value="&amp;nbsp;1. User enters details into the search bar&lt;br&gt;2. User tap the “Search” button" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="4DT83KVUb2VvOl7qxICx-6" value="&amp;nbsp;1. User enters details into the search bar&lt;br&gt;2. User clicks the “Search” button &lt;br&gt;3. Search is successful &lt;br&gt;4. The program displays the search results&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2785" y="920" width="380" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4DT83KVUb2VvOl7qxICx-7" value="Alternate Flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
@@ -987,142 +987,142 @@
         <mxCell id="4DT83KVUb2VvOl7qxICx-8" value="Entry Conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2685" y="1080" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4DT83KVUb2VvOl7qxICx-9" value="User successfully logged in to the application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="4DT83KVUb2VvOl7qxICx-9" value="User successfully logged into the application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2785" y="1080" width="380" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4DT83KVUb2VvOl7qxICx-10" value="Exit conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2685" y="1100" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4DT83KVUb2VvOl7qxICx-11" value="User either sends the prompt successfully or cancels the process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="4DT83KVUb2VvOl7qxICx-11" value="User logs out from the application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2785" y="1100" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4DT83KVUb2VvOl7qxICx-47" value="2a. Message displays: &quot;Message is too long, please make it shorter&#39;&quot;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="4DT83KVUb2VvOl7qxICx-47" value="3a. Message displays: &quot;No results found&#39;&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2785" y="1000" width="380" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4DT83KVUb2VvOl7qxICx-4" value="Consultant/ Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2785" y="900" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-7" value="Use Case Name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-7" value="Use Case Name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="414" y="2500" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-8" value="Actors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-8" value="Actors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="414" y="2520" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-9" value="User tab" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-9" value="User tab" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="514" y="2500" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-10" value="Consultant and Admins" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-10" value="Consultant and Admins" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="514" y="2520" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-11" value="Flow of Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-11" value="Flow of Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="414" y="2540" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-12" value="1. Open User tab&lt;br&gt;2. User click on back button&lt;br&gt;3. Read info about user&lt;br&gt;4. Change existing info&lt;br&gt;5. Write additional info&lt;br&gt;6. Data was changed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-12" value="1. Open User tab&lt;br&gt;2. User click on back button&lt;br&gt;3. Read info about user&lt;br&gt;4. Change existing info&lt;br&gt;5. Write additional info&lt;br&gt;6. Data was changed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="514" y="2540" width="380" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-13" value="Alternate Flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-13" value="Alternate Flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="414" y="2640" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-14" value="4.1. Error message &quot;Impossible to change&lt;br&gt;6.1.Changed info shows for reading" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-14" value="4.1. Error message &quot;Impossible to change&lt;br&gt;6.1.Changed info shows for reading" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="514" y="2640" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-15" value="Entry Conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-15" value="Entry Conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="414" y="2720" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-16" value="User have some authenticated info" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-16" value="User have some authenticated info" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="514" y="2720" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-17" value="Exit conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-17" value="Exit conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="414" y="2740" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-18" value="User can go back without changes or can cancel their changes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-18" value="User can go back without changes or can cancel their changes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="514" y="2740" width="380" height="20" as="geometry" />
         </mxCell>
         <mxCell id="25p_WsbpWHURiKa320EH-11" value="User tab" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=0.8;lucidId=YAnCTzveyhfe;" parent="1" vertex="1">
           <mxGeometry x="602" y="1660" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-24" value="Use Case Name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-24" value="Use Case Name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1695" y="2550" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-25" value="Actors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-25" value="Actors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1695" y="2570" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-26" value="Records" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-26" value="Records" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1795" y="2550" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-27" value="Admins" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-27" value="Admins" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1795" y="2570" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-28" value="Flow of Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-28" value="Flow of Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1695" y="2590" width="100" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-29" value="1. Open records&lt;br&gt;2. Admin can go back to previous stage&lt;br&gt;3. Admin can use User tab&lt;br&gt;4. Admin click on Edit button&lt;br&gt;5. Admin change data&lt;br&gt;6. Cancel changes&lt;br&gt;7.Confirm changes&lt;br&gt;8.Data saved&lt;br&gt;9.Records shows&lt;br&gt;10.Admin can leaf through the layout to see records" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-29" value="1. Open records&lt;br&gt;2. Admin can go back to previous stage&lt;br&gt;3. Admin can use User tab&lt;br&gt;4. Admin click on Edit button&lt;br&gt;5. Admin change data&lt;br&gt;6. Cancel changes&lt;br&gt;7.Confirm changes&lt;br&gt;8.Data saved&lt;br&gt;9.Records shows&lt;br&gt;10.Admin can leaf through the layout to see records" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1795" y="2590" width="380" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-30" value="Alternate Flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-30" value="Alternate Flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1695" y="2730" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-31" value="5.1. Admin not allowed to change some data&lt;br&gt;6.1. Changed data is not saved&lt;br&gt;8.1.Data changes automatically and can be shown for reading&lt;br&gt;10.1.Admin scroll and can edit another records" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-31" value="5.1. Admin not allowed to change some data&lt;br&gt;6.1. Changed data is not saved&lt;br&gt;8.1.Data changes automatically and can be shown for reading&lt;br&gt;10.1.Admin scroll and can edit another records" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1795" y="2730" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-32" value="Entry Conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-32" value="Entry Conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1695" y="2810" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-33" value="Admin see records" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-33" value="Admin see records" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1795" y="2810" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-34" value="Exit conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-34" value="Exit conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1695" y="2830" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-35" value="Admin can go back without editing or can go back with changed data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-35" value="Admin can go back without editing or can go back with changed data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1795" y="2830" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2110" y="2030" as="sourcePoint" />
             <mxPoint x="2170" y="1980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Qu9oQcRNyt_EFON5Fd7M-44">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="Qu9oQcRNyt_EFON5Fd7M-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2990" y="2070" as="sourcePoint" />
             <mxPoint x="2900" y="2070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-48" value="Use Case Name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-48" value="Use Case Name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2580" y="2560" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-49" value="Actors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-49" value="Actors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2580" y="2580" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-50" value="Access" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-50" value="Access" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2680" y="2560" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-51" value="Admins" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-51" value="Admins" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2680" y="2580" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-52" value="Flow of Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-52" value="Flow of Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2580" y="2600" width="100" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-53" value="1. Open access&lt;br&gt;2. Admin can go back to previous stage&lt;br&gt;3. Admin can use User tab&lt;br&gt;4. Admin click on Edit button&lt;br&gt;5. Admin change data&lt;br&gt;6. Cancel changes&lt;br&gt;7.Confirm changes&lt;br&gt;8.Data saved&lt;br&gt;9.Acces shows&lt;br&gt;10.Admin can leaf through the layout to see access" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-53" value="1. Open access&lt;br&gt;2. Admin can go back to previous stage&lt;br&gt;3. Admin can use User tab&lt;br&gt;4. Admin click on Edit button&lt;br&gt;5. Admin change data&lt;br&gt;6. Cancel changes&lt;br&gt;7.Confirm changes&lt;br&gt;8.Data saved&lt;br&gt;9.Acces shows&lt;br&gt;10.Admin can leaf through the layout to see access" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2680" y="2600" width="380" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-54" value="Alternate Flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-54" value="Alternate Flows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2580" y="2740" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-55" value="5.1. Admin not allowed to change some data&lt;br&gt;6.1. Changed data is not saved&lt;br&gt;8.1.Data changes automatically and can be shown for reading&lt;br&gt;10.1.Admin scroll and can edit another records" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-55" value="5.1. Admin not allowed to change some data&lt;br&gt;6.1. Changed data is not saved&lt;br&gt;8.1.Data changes automatically and can be shown for reading&lt;br&gt;10.1.Admin scroll and can edit another records" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2680" y="2740" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-56" value="Entry Conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-56" value="Entry Conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2580" y="2820" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-57" value="Admin see access" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-57" value="Admin see access" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2680" y="2820" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-58" value="Exit conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-58" value="Exit conditions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2580" y="2840" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-59" value="Admin can go back without editing or can go back with changed data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qu9oQcRNyt_EFON5Fd7M-59" value="Admin can go back without editing or can go back with changed data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2680" y="2840" width="380" height="20" as="geometry" />
         </mxCell>
       </root>
